@@ -20,7 +20,6 @@
 				- Lack of progress in solving complex problems
 				- Funding allocation
 	- ## Problemas com Expert systems
-	  collapsed:: true
 		- Começaram a ficar expert demais nas suas áreas de conhecimento como aponta McCarthy em [14]
 			- ((65ee60f5-fccf-4740-b99a-7c03b706f0a1))
 			-
@@ -36,7 +35,6 @@
 		- ((65efbdcd-5682-4434-876c-672e2bf730f0))
 		-
 	- ## Falsa profecia
-	  collapsed:: true
 		- ((65efbf6e-9f85-461d-a3ec-2300d93f4979))
 		-
 - # Pesquisa futuras

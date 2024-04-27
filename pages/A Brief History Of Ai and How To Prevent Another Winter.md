@@ -58,8 +58,17 @@
 	- ## A 2º onda da IA (1982)
 		- Mais focada em problemas voltados em outras áreas além da computação e matemática como, por exemplo, medicina
 			- ((65efad32-b48f-407b-9f72-30278c55a7aa))
+		- O inicio do desenvolvimento dos Expert systems foi durante a primeira onda
+		  id:: 6629b89c-de70-4968-8dbd-6bbbf813295e
+			- ((6629b87f-40d3-4459-a8d1-6909feb52fed))
 			- ((65ecb2f2-3399-455a-b389-0debc02d4194))
+			- ((65ecb315-43c2-4284-a8be-e2bb224e24b8))
+		- Impactos econômicos dos expert system
 			- ((65efafd3-d698-4973-a468-e4ca3381859e))
+			- ((662d2dc4-acc3-45f7-866b-adff72b0b8fe))
+			- ((662d2df4-82f6-4a64-b83c-ac7d6b089be3))
+			- ((662d2e45-acb2-4b9e-b4ee-cb616dee74c6))
+			-
 		- Criação do primeiro modelo de rede convolucional
 			- ((65efaeeb-f044-4d00-9ada-9fa4433123b0))
 			-

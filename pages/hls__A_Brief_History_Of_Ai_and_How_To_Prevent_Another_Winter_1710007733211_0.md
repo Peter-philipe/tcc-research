@@ -181,3 +181,23 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-page:: 8
   hl-color:: purple
   id:: 66247373-4e07-4664-b48b-df977d64c774
+- DENDRAL [53], created at Stanford by Ed Feigenbaum, Bruce Buchanan, and Joshua Lederberg in the late 1960s and early 1970s, and inferred molecular structure from mass spectrometry data, was an early success story. DENDRAL was the ﬁrst effective knowledge-intensive system, relying on a vast range of special-purpose laws, to provide expertise rather than basic knowledge
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 6629b87f-40d3-4459-a8d1-6909feb52fed
+- In Japan, the government started a 10-year plan to keep up with the new wave by investing more than$1.3 billion in intelligent systems. 
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: purple
+  id:: 662d2dc4-acc3-45f7-866b-adff72b0b8fe
+- The US government, by establishing the Microelectronics and Computer Technology Corporation in 1982, revived AI research in hardware, chip design, and software research. The same change happened in the UK as well, resulting in reassignment of funds previously cut. All these events during the 80s led to a period of“Summer” for AI. 
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 662d2df4-82f6-4a64-b83c-ac7d6b089be3
+- he AI industry thrived from billions of dollars invested in the ﬁeld, and various activities emerged from expert systems developer companies to domain-speciﬁc hardware
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: blue
+  id:: 662d2e45-acb2-4b9e-b4ee-cb616dee74c6

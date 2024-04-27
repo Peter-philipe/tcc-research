@@ -1,5 +1,4 @@
 ## Origem do Neurônio Natural
-collapsed:: true
 	- ((65f3b2b3-a705-4524-9f40-eea2ab43a075))
 	- ![Captura de tela 2024-03-14 233525.png](../assets/Captura_de_tela_2024-03-14_233525_1710470139516_0.png){:height 423, :width 440}
 	-
@@ -16,12 +15,10 @@ collapsed:: true
 		- ![image.png](../assets/image_1711308183234_0.png)
 		- Fonte da imagem: ![Analysis of a Four-Layer Series-Coupled Perceptron. II.pdf](../assets/Analysis_of_a_Four-Layer_Series-Coupled_Perceptron._II_1711308213946_0.pdf)
 - ## Conectando neurônios
-  collapsed:: true
 	- Baseado no Neurônio de McCullough-Pitts
 		- ((65f9c706-5006-434c-a772-c420c81b1b0e))
 		- ((65f9c795-f629-4d49-b361-f0045c056aac))
 - ## Neocognitron
-  collapsed:: true
 	- Inspirado no  modelo de Hubel e Wiesel para processamento da visão, Fukushima  criou o **neocognitron** com objetivo de sanar:
 		- ((6601d626-dd6a-41c8-8c62-64f660d236f9))
 	- Simplificando a o modelo de Hubel e Wiesel:
