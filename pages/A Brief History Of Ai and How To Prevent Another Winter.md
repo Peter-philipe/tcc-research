@@ -64,6 +64,7 @@
 			- ((65ecb2f2-3399-455a-b389-0debc02d4194))
 			- ((65ecb315-43c2-4284-a8be-e2bb224e24b8))
 		- Impactos econômicos dos expert system
+		  id:: 6629b99d-5133-4c7e-8e7c-3bf08cecdbe1
 			- ((65efafd3-d698-4973-a468-e4ca3381859e))
 			- ((662d2dc4-acc3-45f7-866b-adff72b0b8fe))
 			- ((662d2df4-82f6-4a64-b83c-ac7d6b089be3))
