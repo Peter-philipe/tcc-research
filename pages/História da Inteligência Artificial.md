@@ -22,7 +22,7 @@
 - # 2º Onda
 	- Os _expert systems_ criados na primeira onda começaram a furar a bolha da academia entrando no mundo comercial trazendo resultados otimistas que proporcionaram a volta dos investimentos em na IA
 		- {{embed ((6629b99d-5133-4c7e-8e7c-3bf08cecdbe1))}}
-		-
+	-
 	-
 -
 -
