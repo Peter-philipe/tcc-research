@@ -19,6 +19,7 @@
 		- ((65f9c706-5006-434c-a772-c420c81b1b0e))
 		- ((65f9c795-f629-4d49-b361-f0045c056aac))
 - ## Neocognitron
+  id:: 6601c698-517d-45c5-8c3e-45fc20f07141
 	- Inspirado no  modelo de Hubel e Wiesel para processamento da visão, Fukushima  criou o **neocognitron** com objetivo de sanar:
 		- ((6601d626-dd6a-41c8-8c62-64f660d236f9))
 	- Simplificando a o modelo de Hubel e Wiesel:
