@@ -22,7 +22,7 @@
 - # 2º Onda
 	- Os _expert systems_ criados na primeira onda começaram a furar a bolha da academia entrando no mundo comercial trazendo resultados otimistas que proporcionaram a volta dos investimentos em na IA
 		- {{embed ((6629b99d-5133-4c7e-8e7c-3bf08cecdbe1))}}
-	- Nas mesma década do boom dos _expert systems_, surgiu um novo algoritmo relacionado a redes neurais que pode resolver um problema que assolava as
+	- Nas mesma década do boom dos _expert systems_, surgiu um novo algoritmo relacionado a redes neurais que pode resolver um problema que assolava as IA que é o reconhe
 	-
 -
 -
