@@ -109,6 +109,7 @@
 - # Para Pesquisar
 	- ## Redes Convolusionais
 		- **Neocognitron**
+		  id:: 65ed1014-bd1f-4e5d-baff-a2366046d40f
 			- [[Neurônio]]
 		- Diferença entre **rede neural normal** e **rede neural convolusionais**
 	- ## O que é um *"Expert System"*
