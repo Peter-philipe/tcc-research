@@ -25,6 +25,7 @@
 			-
 	- ## 2º Inverno
 		- ((65efbbc7-13d0-4dfe-a76f-6b5e60b149e6))
+			- Essa esperança pode ter a aparecido
 		- Com pouco recurso computacional o Modelo de Support Vector Machine (SVM) voltou a ser popular por requisitar menos processamento.
 			- ((65efbcca-255c-4cc0-819f-0f7492627d0a))
 			-
