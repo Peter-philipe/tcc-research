@@ -25,12 +25,10 @@
 			-
 	- ## 2º Inverno
 		- ((65efbbc7-13d0-4dfe-a76f-6b5e60b149e6))
-			- Essa confiança pode ter a aparecido devido a criação das redes convolucciona
+			- Essa confiança pode ter a aparecido devido a criação das redes convolucional
 		- Com pouco recurso computacional o Modelo de Support Vector Machine (SVM) voltou a ser popular por requisitar menos processamento.
 			- ((65efbcca-255c-4cc0-819f-0f7492627d0a))
-			-
 	- ## 3º Onda
-	  collapsed:: true
 		- ((65efbd5a-a269-4bd4-80f4-44924974056c))
 		- ((65efbd75-5b53-4828-986b-ff567ab5e9a5))
 		- ((65efbdcd-5682-4434-876c-672e2bf730f0))
