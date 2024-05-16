@@ -1,0 +1,13 @@
+- Artigos
+	- [[A Brief History Of Ai and How To Prevent Another Winter]]
+	- [[Brief History of AI in Medice]]
+	- Artigo que deu origem as redes convolucionais
+		- ![neocognitron.pdf](../assets/neocognitron_1711391190731_0.pdf)
+	- [[Analyzing the Prospect of an Approaching AI Winter]]
+- Livros
+	- [[The Quest For Artificial Intelligence]]
+	- [[Artificial Intelligence A Modern Approach]]
+	-
+- Tópicos
+	- [[Neurônio]]
+	- [[História da Inteligência Artificial]]

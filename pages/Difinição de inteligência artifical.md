@@ -1,0 +1,1 @@
+- Melhor definição que vi foi a do livro "Articial Intelligence A Modern Approach"
