@@ -44,8 +44,9 @@ file-path:: ../assets/Brief-History-of-Artificial-Intelligence_1710105556985_0.p
 - This trick allowed for support vector machine algorithms to capitalize on the low computational power that was available in the early 1990s
   ls-type:: annotation
   hl-page:: 4
-  hl-color:: blue
+  hl-color:: red
   id:: 65efbcca-255c-4cc0-819f-0f7492627d0a
+  hl-stamp:: 1717120933689
 - The interest in AI resurged toward the mid 1990s as computational power increased and could support the development of neural networks.
   ls-type:: annotation
   hl-page:: 4
@@ -66,3 +67,13 @@ file-path:: ../assets/Brief-History-of-Artificial-Intelligence_1710105556985_0.p
   hl-page:: 6
   hl-color:: blue
   id:: 65efbf6e-9f85-461d-a3ec-2300d93f4979
+- The support vector machine algorithm (Figs. 4 and 5), which was originally introduced in 1963 by Vapnik and Chervonenkis, became popular again with the implementation of nonlinear kernels in 1992.20 Before Boser and colleagues’ publication in1992, 20 the support vector machine algorithm attempted to solve for a hyperplane by maximizing the marginal distances between 2 separate classes and the hyperplane. The maximized distance between the hyperplane and the classes allows for more robustness because data are always subject to noise. The publication by Boser allowed for a simple modification of the optimization algorithm, now known as the “kernel trick,” which enabled the algorithm to solve for nonlinear hyperplanes without significantly increasing the computational requirements of the algorithm
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: blue
+  id:: 66592fac-a31c-4f16-8f29-8e1d6200c54e
+- with the introduction of GPUs and the steady improvement to computers as per Moore’s law, the hardware limitations that constrained the performance of neural networks were overcome. The additional computational power enabled researchers to run larger networks with more complex layers. Cires‚ an and colleagues 25 were the first to implement GPUs with DL using a GTX 280 graphics card. Finally, in2012, Krizhevsky and colleagues 26 presented AlexNet, which used the massively available dataset from ImageNet (1.2 million images with 1000 classes at the time) with GPUs to win the ImageNet Large Scale Visual Recognition Challenge
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 6666169a-0ae3-482b-9cce-bb25b7dfc2b8

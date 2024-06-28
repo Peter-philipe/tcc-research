@@ -53,10 +53,12 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-color:: blue
   id:: 65ecc586-276a-4395-9eeb-c7bcf91d0440
 - The lesson learned during the periods of AI’s winter made researchers more conservative. As a result, during the late 1980s and the1990s, the ﬁeld of AI research witnessed a major conservative shift toward more established theories like statistics-based methods
-  ls-type:: annotation
   hl-page:: 9
-  hl-color:: green
+  ls-type:: annotation
   id:: 65ecc690-fd90-497d-a261-efada0e23414
+  hl-color:: green
+  collapsed:: true
+	-
 - Another important outcome of this conservative shift in the ﬁeld of AI was the development of public benchmark datasets and related competitions in its various subﬁelds
   ls-type:: annotation
   hl-page:: 9
@@ -201,3 +203,19 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-page:: 9
   hl-color:: blue
   id:: 662d2e45-acb2-4b9e-b4ee-cb616dee74c6
+- Among these theories ﬁnding their way to the ﬁeld were hidden Markov models (HMMs) [ 60 ]. Being strictly mathematical-based and resulting from extensive training on large real-world datasets, hidden Markov models became a trustable framework for AI research, especially in handwriting recognition and speech processing, helping them to make their way back to the industry.
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: blue
+  id:: 66592c65-16cc-4cd7-a028-5dab1fcfed7a
+- Meanwhile, the availability of huge amounts of labeled data such as millions of labeled images in the ImageNet dataset helped researchers to overcome the problem of overﬁtting.
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: yellow
+  id:: 6667a8ee-a069-46a4-843a-6b6f662e3a36
+  hl-stamp:: 1718069489246
+- Eventually, in 2012 Hinton’s team proposed a deep convolutional neural network architecture, named AlexNet (after the team’s leading author Alex Krizhevsky), which was able to train more layers of neurons. Using many mechanisms and techniques such as rectiﬁed linear unit activation functions and the dropout technique, AlexNet could achieve higher discriminative power in an end-to-end fashion, that is, to feed the network with merely the pure images of the dataset [87].
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 6667a917-bf36-4b9a-bcad-68b5d5e4cf2f

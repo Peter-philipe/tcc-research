@@ -1,4 +1,5 @@
-# 1 º Onda
+# 1º Onda
+collapsed:: true
 	- Na Conferência de Dartmouth se deu  origem ao termo que chamamos hoje de inteligência artificial
 		- ((66245f5d-601e-4a34-9fb7-75ff7876438d))
 	- Criação da rede neural Perceptron
@@ -13,6 +14,7 @@
 		-
 	-
 - # 1º Inverno
+  collapsed:: true
 	- ### Motivações
 		- {{embed ((65ee5422-c283-4a41-9701-fb93c2edb492))}}
 		- {{embed ((66232b25-50a2-4d22-a3fc-ddcd02ebe895))}}
@@ -21,14 +23,57 @@
 		-
 - # 2º Onda
 	- Os _expert systems_ criados na primeira onda começaram a furar a bolha da academia entrando no mundo comercial trazendo resultados otimistas que proporcionaram a volta dos investimentos em na IA
+	  collapsed:: true
 		- {{embed ((6629b99d-5133-4c7e-8e7c-3bf08cecdbe1))}}
 	- Nas mesma década do boom dos _expert systems_, surgiu um novo algoritmo relacionado a redes neurais que pode resolver um problema que assolava as IA que é o reconhecimento do mesmo padrão em diferentes contextos
+	  collapsed:: true
 		- {{embed ((6601c698-517d-45c5-8c3e-45fc20f07141))}}
 		-
 - # 2º Inverno
-	- {{embed ((66414958-d8c9-425b-a5f0-b862ef45b42b))}}
-	- ![image.png](../assets/image_1715736337016_0.png)
-	-
--
+	- ## As expectativas voltaram
+	  collapsed:: true
+		- {{embed ((66414958-d8c9-425b-a5f0-b862ef45b42b))}}
+		- ![image.png](../assets/image_1715987704685_0.png)
+		-
+	- ## A queda dos Expert systems
+	  collapsed:: true
+		- **Limited Scope**: It can only work within the domain it has been designed for.
+		- **Maintenance**: Updating the knowledge base and rules can be challenging and time-consuming.
+		- **Lack of Creativity**: Expert systems can only solve problems they have been programmed to handle and lack human intuition and creativity.
+		-
+		- {{embed ((66414958-4bc8-463f-b1c6-8a2ee4cf14b8))}}
+		- {{embed ((664bf9e3-08ef-495c-bea9-e48d0ac3836c))}}
+		- Os experts system são formados por uma rede complexa de regras if-else que torna difícil a adaptação e evolução em comparação com as redes neurais que dependem primariamente da qualidade e quantidade de dados disponíveis. Porém, ambas as tecnologias precisam de muito poder computacional para operar o que na época não era viável economicamente. Por isso, abordagens que não precisavam de tanto poder computacional foram priorizadas, por exemplo, [[Support Vector Machines]]
+	- ## Com grandes poderes vem grandes hardware
+	  collapsed:: true
+		- As recém chegadas CNN tinham a capacidade de gerar resultados mais precisos do que os expert systems quando se tratava de generalização, mas para isso ela precisava de um poder computacional bem mais robusto do que a época poderiam oferecer o que gerou uma quebra de expectativas
+		-
+	- ## Lições aprendidas
+		- ### Focar em técnicas mais consolidadas que não dependem tanto assim da capacidade do hardware
+		  collapsed:: true
+			- {{embed ((65ecc690-fd90-497d-a261-efada0e23414))}}
+				- [[Hidden Markov Models]]
+				- Com pouco recurso computacional as atenções voltaram para algoritmos  de menor poder computacional, mas que davam repostas satisfatórias que é o caso do [[Support Vector Machines]]
+		- ### Criação de base de dados públicas
+		  collapsed:: true
+			- {{embed ((65ecc80d-e846-4b7e-bbf8-d735bfbb32b7))}}
+		- ### Revistar técnicas já conhecidas com novas apordagens
+		  collapsed:: true
+			- {{embed ((65ed1a18-e6fd-4cb4-b9b3-ccbf104f475a))}}
+- # 3º Onda
+	- #### Aumento do poder de processamento e armazenamento cresceu paralelamente com a quantidade de dados sendo produzida e compartilhada por meio da internet
+	  collapsed:: true
+		- ((65ed1950-694a-45f6-86b6-781887bef6d7))
+		-
+	- #### O ponta pé inicial foi a derrota do campeão do xadrez para o computador Deep Blue da IBM.
+	  collapsed:: true
+		- ((65efbd75-5b53-4828-986b-ff567ab5e9a5))
+	- #### A consolidação das redes neurais se deu com as GPU e maior capacidade de armazenamento
+		- ((66414958-4ee1-43f2-8e2e-38a5821b6916))
+			- ((6667a3b0-42ee-4dda-9e31-c0e805addc92))
+		- ((6667a8f4-851f-4efd-9548-58d9d3de86b1))
+		- ((6667a91c-6401-4649-b941-ccf19cb70249))
+		- ((66679780-81fc-44e5-8458-b780b8d7db06))
+		-
 -
 -

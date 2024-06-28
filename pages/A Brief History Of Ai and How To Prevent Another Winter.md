@@ -66,6 +66,7 @@
 		- Impactos econômicos dos expert system
 		  id:: 6629b99d-5133-4c7e-8e7c-3bf08cecdbe1
 			- ((65efafd3-d698-4973-a468-e4ca3381859e))
+				- [[Mais informações sobre o R1]] #card
 			- ((662d2dc4-acc3-45f7-866b-adff72b0b8fe))
 			- ((662d2df4-82f6-4a64-b83c-ac7d6b089be3))
 			- ((662d2e45-acb2-4b9e-b4ee-cb616dee74c6))
@@ -77,30 +78,40 @@
 		- ((65ecbcd0-ba1e-4777-b825-c2ba1bdcd041))
 		- ((65ecbed7-7a2b-4626-a9ee-11dada615cad))
 			- Penso  que aqui o mercado viu a possibilidade de uma hiperespecialização que seria muito arriscada apostar
-			- Conecta com a 3º terceira onda
+			- Na época o poder de processamento ainda era muito baixo em relação aos problemas que as expectativas diziam que IA iria resolver
 		- ((65ecc586-276a-4395-9eeb-c7bcf91d0440))
 		- ### Aprendizados do 2º Inverno
 			- ((65ecc690-fd90-497d-a261-efada0e23414))
-				- Algumas das técnicas estatísticas já tinham sido desenvolvidas, mas só passaram a ser usado com maior peso nesse período
+				- [[Hidden Markov Models]] #card
 			- ((65ecc80d-e846-4b7e-bbf8-d735bfbb32b7))
 				- Esses benchmark são as bases de dados publicas disponíveis que foi usada para treinar uma IA, por exemplo, Yale face database
 				- Conecta com 3º er
+			- ((65ed1a18-e6fd-4cb4-b9b3-ccbf104f475a))
+			-
 		-
 	- ## Começo do Século atual
 		- ((65ed1950-694a-45f6-86b6-781887bef6d7))
 			- Progresso na tecnologia
 			- Mais dados disponíveis em diferentes formatos
-		- ((65ed1950-694a-45f6-86b6-781887bef6d7))
 			- Revisitando o algoritmo de redes neurais com novas formas de treinamentos
 		- ((65ed174c-6cdc-444b-a34f-e67259e99f7a))
-			- Adoção de GPU em CNNs
-		-
+		  id:: 66414958-4ee1-43f2-8e2e-38a5821b6916
+			- Referência mais antiga de uso de GPU com rede neurais que encontrei
+			  id:: 6667a3b0-42ee-4dda-9e31-c0e805addc92
+		- ((6667a8ee-a069-46a4-843a-6b6f662e3a36))
+		  id:: 6667a8f4-851f-4efd-9548-58d9d3de86b1
+		- ((6667a917-bf36-4b9a-bcad-68b5d5e4cf2f))
+		  id:: 6667a91c-6401-4649-b941-ccf19cb70249
+		- ((65ed181f-756b-4c3f-a5f8-410b0004f988))
+		  id:: 66679780-81fc-44e5-8458-b780b8d7db06
+			-
 	- ## Atualmente
 	  collapsed:: true
 		- ((65ed1c1a-e9fb-4ee4-aaac-d5810275af71))
 		- ((65ed1c51-afa5-475d-b41d-3e98335dcb9f))
 			- rival (theory and algorithms) [ 91 ]
 	- ## IA vencendo humanos
+	  collapsed:: true
 		- ((65ed17fa-e8a5-4eff-83f9-c1ec29dedd08))
 		- ((65ed1802-77d8-40ea-ace2-b7a773469d49))
 		- ((65ed181f-756b-4c3f-a5f8-410b0004f988))
@@ -115,6 +126,7 @@
 	- ## O que é um *"Expert System"*
 	- ##
 	-
+-
 -
 -
 -

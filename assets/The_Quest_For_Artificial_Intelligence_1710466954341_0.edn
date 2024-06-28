@@ -238,4 +238,4 @@
                           :page 285},
                :content {:text "We proposed to begin work on this problem by developing an environment in which an apprentice repair person would be given advice about how to take apart and reassemble a small air compressor.1 The advice would be generated (as needed by the apprentice) by a planning and execution system that would give suggestions about what to do next"},
                :properties {:color "yellow"}}],
- :extra {:page 285}}
+ :extra {:page 303}}

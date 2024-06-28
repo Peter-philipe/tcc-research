@@ -3,7 +3,7 @@
 	- Notícia da época de 1980 que mostra como as noticias na media atual se parecem
 		- ((6638376a-7411-4715-ad46-fda54aeac46c))
 		-
-	- ## Altas expectativas como causadora do inverno
+	- ## Ciclo de esperança
 	  id:: 66414958-d8c9-425b-a5f0-b862ef45b42b
 		- ((66383aa8-f602-4d43-9005-a6a6cde135a8))
 			- Sucesso em áreas particulares do conhecimento. Esse sucesso aponto para um próximo patamar que IA não consegue alcançar
@@ -12,11 +12,11 @@
 		- ((6638382c-2625-42b0-ba8c-e8c905892db7))
 		- ((66383add-6401-4e39-ad7e-ad44a8da3402))
 	- ## Problemas com os expert systems
+	  id:: 66414958-4bc8-463f-b1c6-8a2ee4cf14b8
 		- ((66383a76-d5b4-479c-8f85-682a90d37128))
-			- O que ele quer dizer com "senso comun"
 - # 3º Onda
 	- ((6638451c-3848-42dc-a358-70700c4c2cd2))
-		- ![image.png](../assets/image_1715735756008_0.png)
+		- ![image.png](../assets/image_1715735756008_0.png){:height 406, :width 635}
 		-
 	-
 -
