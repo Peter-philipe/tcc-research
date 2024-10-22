@@ -1,0 +1,18 @@
+- ![The Quest For Artificial Intelligence.pdf](../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf)
+-
+<<<<<<< HEAD
+- Existem vários perceptrons
+	- ((65f9cab4-d702-4e79-afdc-f5f3ca6e0711))
+	-
+- O caso XOR não foi tão impactante assim
+	- ((6711cade-cc26-47bc-86e1-651fdba4d059))
+	- Atualmente, sabe-se que é possível sim fazer um XOR usando perceptrons, mas precisa ter no mínimo duas camadas
+		- https://medium.com/@lucaspereira0612/solving-xor-with-a-single-perceptron-34539f395182
+- Mansfield Amendment
+	- ((67142341-65fe-454b-8b20-98783053fe84))
+- ALPAC report
+	- ((6714257d-d309-4d2f-8847-706d660a2e63))
+	-
+=======
+-
+>>>>>>> f09a83b (Iniciando local)
