@@ -42,16 +42,11 @@ file-path:: ../assets/Brief-History-of-Artificial-Intelligence_1710105556985_0.p
   hl-color:: red
   id:: 65efbbc7-13d0-4dfe-a76f-6b5e60b149e6
 - This trick allowed for support vector machine algorithms to capitalize on the low computational power that was available in the early 1990s
-  ls-type:: annotation
-  hl-page:: 4
-<<<<<<< HEAD
   hl-color:: red
   id:: 65efbcca-255c-4cc0-819f-0f7492627d0a
   hl-stamp:: 1717120933689
-=======
-  hl-color:: blue
-  id:: 65efbcca-255c-4cc0-819f-0f7492627d0a
->>>>>>> f09a83b (Iniciando local)
+  ls-type:: annotation
+  hl-page:: 4
 - The interest in AI resurged toward the mid 1990s as computational power increased and could support the development of neural networks.
   ls-type:: annotation
   hl-page:: 4
@@ -68,11 +63,10 @@ file-path:: ../assets/Brief-History-of-Artificial-Intelligence_1710105556985_0.p
   hl-color:: blue
   id:: 65efbdcd-5682-4434-876c-672e2bf730f0
 - IBM had announced that it would begin to focus attention toward the health care field and revolutionize AI in health care in the upcoming years. Although there were several successful collaborations between hospitals and IBM, some collaborations resulted in failures
+  id:: 65efbf6e-9f85-461d-a3ec-2300d93f4979
   ls-type:: annotation
   hl-page:: 6
   hl-color:: blue
-<<<<<<< HEAD
-  id:: 65efbf6e-9f85-461d-a3ec-2300d93f4979
 - The support vector machine algorithm (Figs. 4 and 5), which was originally introduced in 1963 by Vapnik and Chervonenkis, became popular again with the implementation of nonlinear kernels in 1992.20 Before Boser and colleagues’ publication in1992, 20 the support vector machine algorithm attempted to solve for a hyperplane by maximizing the marginal distances between 2 separate classes and the hyperplane. The maximized distance between the hyperplane and the classes allows for more robustness because data are always subject to noise. The publication by Boser allowed for a simple modification of the optimization algorithm, now known as the “kernel trick,” which enabled the algorithm to solve for nonlinear hyperplanes without significantly increasing the computational requirements of the algorithm
   ls-type:: annotation
   hl-page:: 4
@@ -83,6 +77,3 @@ file-path:: ../assets/Brief-History-of-Artificial-Intelligence_1710105556985_0.p
   hl-page:: 5
   hl-color:: blue
   id:: 6666169a-0ae3-482b-9cce-bb25b7dfc2b8
-=======
-  id:: 65efbf6e-9f85-461d-a3ec-2300d93f4979
->>>>>>> f09a83b (Iniciando local)

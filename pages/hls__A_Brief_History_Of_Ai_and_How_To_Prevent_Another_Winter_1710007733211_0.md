@@ -53,19 +53,11 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-color:: blue
   id:: 65ecc586-276a-4395-9eeb-c7bcf91d0440
 - The lesson learned during the periods of AI’s winter made researchers more conservative. As a result, during the late 1980s and the1990s, the ﬁeld of AI research witnessed a major conservative shift toward more established theories like statistics-based methods
-<<<<<<< HEAD
   hl-page:: 9
   ls-type:: annotation
   id:: 65ecc690-fd90-497d-a261-efada0e23414
   hl-color:: green
   collapsed:: true
-	-
-=======
-  ls-type:: annotation
-  hl-page:: 9
-  hl-color:: green
-  id:: 65ecc690-fd90-497d-a261-efada0e23414
->>>>>>> f09a83b (Iniciando local)
 - Another important outcome of this conservative shift in the ﬁeld of AI was the development of public benchmark datasets and related competitions in its various subﬁelds
   ls-type:: annotation
   hl-page:: 9
@@ -206,11 +198,10 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-color:: green
   id:: 662d2df4-82f6-4a64-b83c-ac7d6b089be3
 - he AI industry thrived from billions of dollars invested in the ﬁeld, and various activities emerged from expert systems developer companies to domain-speciﬁc hardware
+  id:: 662d2e45-acb2-4b9e-b4ee-cb616dee74c6
   ls-type:: annotation
   hl-page:: 9
   hl-color:: blue
-<<<<<<< HEAD
-  id:: 662d2e45-acb2-4b9e-b4ee-cb616dee74c6
 - Among these theories ﬁnding their way to the ﬁeld were hidden Markov models (HMMs) [ 60 ]. Being strictly mathematical-based and resulting from extensive training on large real-world datasets, hidden Markov models became a trustable framework for AI research, especially in handwriting recognition and speech processing, helping them to make their way back to the industry.
   ls-type:: annotation
   hl-page:: 9
@@ -227,6 +218,3 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   hl-page:: 10
   hl-color:: red
   id:: 6667a917-bf36-4b9a-bcad-68b5d5e4cf2f
-=======
-  id:: 662d2e45-acb2-4b9e-b4ee-cb616dee74c6
->>>>>>> f09a83b (Iniciando local)

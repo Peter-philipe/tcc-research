@@ -4,10 +4,10 @@
 	- Artigo que deu origem as redes convolucionais
 		- ![neocognitron.pdf](../assets/neocognitron_1711391190731_0.pdf)
 	- [[Analyzing the Prospect of an Approaching AI Winter]]
-<<<<<<< HEAD
+	  <<<<<<< HEAD
 	- [[Expert system and common sense]]
-=======
->>>>>>> f09a83b (Iniciando local)
+	  =======
+	  >>>>>>> f09a83b (Iniciando local)
 - Livros
 	- [[The Quest For Artificial Intelligence]]
 	- [[Artificial Intelligence A Modern Approach]]

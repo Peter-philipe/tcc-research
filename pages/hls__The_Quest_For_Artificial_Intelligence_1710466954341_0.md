@@ -30,7 +30,6 @@ file-path:: ../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf
   ls-type:: annotation
   hl-page:: 285
   hl-color:: yellow
-<<<<<<< HEAD
   id:: 65f9ce88-4013-43f0-bb5f-07185324a004
 - In 1969 Marvin Minsky and Seymour Papert published an inﬂuential book in which they proved, among other things, that some versions of Rosenblatt’s perceptrons had important limitations.7 Some have claimed that the Minsky–Papert book was the cause of a fading interest in neural-network research, but I doubt this. First, Rosenblatt himself began concentrating on other topics well before 1969,8 and the success of heuristic programming methods caused a shift of attention (including my own) away from neural networks during the mid-1960s.
   ls-type:: annotation
@@ -48,6 +47,3 @@ file-path:: ../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf
   hl-page:: 150
   hl-color:: green
   id:: 6714257d-d309-4d2f-8847-706d660a2e63
-=======
-  id:: 65f9ce88-4013-43f0-bb5f-07185324a004
->>>>>>> f09a83b (Iniciando local)

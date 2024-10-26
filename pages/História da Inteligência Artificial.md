@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# 1º Onda
-=======
-# 1 º Onda
->>>>>>> f09a83b (Iniciando local)
+
+
+- # 1º Onda
 	- Na Conferência de Dartmouth se deu  origem ao termo que chamamos hoje de inteligência artificial
 		- ((66245f5d-601e-4a34-9fb7-75ff7876438d))
 	- Criação da rede neural Perceptron
@@ -24,7 +22,6 @@
 		- {{embed ((65ee5801-b7f3-4e19-827e-65d4b64e6000))}}
 		-
 - # 2º Onda
-<<<<<<< HEAD
   collapsed:: true
 	- Os _expert systems_ criados na primeira onda começaram a furar a bolha da academia entrando no mundo comercial trazendo resultados otimistas que proporcionaram a volta dos investimentos em na IA
 	  collapsed:: true
@@ -34,7 +31,6 @@
 		- {{embed ((6601c698-517d-45c5-8c3e-45fc20f07141))}}
 		-
 - # 2º Inverno
-  collapsed:: true
 	- ## As expectativas voltaram
 		- {{embed ((66414958-d8c9-425b-a5f0-b862ef45b42b))}}
 		- ![image.png](../assets/image_1715987704685_0.png)
@@ -80,18 +76,6 @@
 		- ((6667a8f4-851f-4efd-9548-58d9d3de86b1))
 		- ((6667a91c-6401-4649-b941-ccf19cb70249))
 		- ((66679780-81fc-44e5-8458-b780b8d7db06))
-		-
-=======
-	- Os _expert systems_ criados na primeira onda começaram a furar a bolha da academia entrando no mundo comercial trazendo resultados otimistas que proporcionaram a volta dos investimentos em na IA
-		- {{embed ((6629b99d-5133-4c7e-8e7c-3bf08cecdbe1))}}
-	- Nas mesma década do boom dos _expert systems_, surgiu um novo algoritmo relacionado a redes neurais que pode resolver um problema que assolava as IA que é o reconhecimento do mesmo padrão em diferentes contextos
-		- {{embed ((6601c698-517d-45c5-8c3e-45fc20f07141))}}
-		-
-- # 2º Inverno
-	- {{embed ((66414958-d8c9-425b-a5f0-b862ef45b42b))}}
-	- ![image.png](../assets/image_1715736337016_0.png)
-	-
--
->>>>>>> f09a83b (Iniciando local)
+
 -
 -

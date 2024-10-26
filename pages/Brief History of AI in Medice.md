@@ -25,7 +25,6 @@
 			-
 	- ## 2º Inverno
 		- ((65efbbc7-13d0-4dfe-a76f-6b5e60b149e6))
-<<<<<<< HEAD
 		  id:: 66414958-e96e-4388-9e55-9cdee0078a19
 			- Essa confiança pode ter a aparecido devido a criação das redes convolucional
 			  id:: 66414958-0afa-4fa6-a77e-d0df7652e21b
@@ -39,16 +38,6 @@
 			  id:: 66414958-906f-4290-98ad-5efbccf20fa9
 			- ((6666169a-0ae3-482b-9cce-bb25b7dfc2b8))
 			  id:: 6666167b-a450-451d-a055-5eba7b40d3ec
-			-
-=======
-			- Essa confiança pode ter a aparecido devido a criação das redes convolucional
-		- Com pouco recurso computacional o Modelo de Support Vector Machine (SVM) voltou a ser popular por requisitar menos processamento.
-			- ((65efbcca-255c-4cc0-819f-0f7492627d0a))
-	- ## 3º Onda
-		- ((65efbd5a-a269-4bd4-80f4-44924974056c))
-		- ((65efbd75-5b53-4828-986b-ff567ab5e9a5))
-		- ((65efbdcd-5682-4434-876c-672e2bf730f0))
->>>>>>> f09a83b (Iniciando local)
 		-
 	- ## Falsa profecia
 		- ((65efbf6e-9f85-461d-a3ec-2300d93f4979))
