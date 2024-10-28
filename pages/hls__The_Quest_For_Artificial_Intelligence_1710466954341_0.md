@@ -47,3 +47,28 @@ file-path:: ../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf
   hl-page:: 150
   hl-color:: green
   id:: 6714257d-d309-4d2f-8847-706d660a2e63
+- advanced automation
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: yellow
+  id:: 671d5c3b-3169-4bf7-84e9-adb4778a9aba
+- computer-based studies of the central nervous system
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: red
+  id:: 671d5c3f-ac80-41ed-95ef-651d34da4713
+- and the bridges in between
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: blue
+  id:: 671d5c43-411b-4f1d-881f-46446c30faf2
+- including robotics and language processin
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: red
+  id:: 671d5c7e-8b91-45f8-a8bd-52189e60fa3b
+- He concluded that AI’s existing search techniques (which worked on toy problems)
+  ls-type:: annotation
+  hl-page:: 263
+  hl-color:: green
+  id:: 671d5ccd-6284-4325-8f95-22d9c6426313

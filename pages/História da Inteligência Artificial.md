@@ -31,6 +31,7 @@
 		- {{embed ((6601c698-517d-45c5-8c3e-45fc20f07141))}}
 		-
 - # 2º Inverno
+  collapsed:: true
 	- ## As expectativas voltaram
 		- {{embed ((66414958-d8c9-425b-a5f0-b862ef45b42b))}}
 		- ![image.png](../assets/image_1715987704685_0.png)
@@ -61,7 +62,6 @@
 		  collapsed:: true
 			- {{embed ((65ed1a18-e6fd-4cb4-b9b3-ccbf104f475a))}}
 - # 3º Onda
-  collapsed:: true
 	- #### Aumento do poder de processamento e armazenamento cresceu paralelamente com a quantidade de dados sendo produzida e compartilhada por meio da internet
 	  collapsed:: true
 		- ((65ed1950-694a-45f6-86b6-781887bef6d7))
@@ -76,6 +76,5 @@
 		- ((6667a8f4-851f-4efd-9548-58d9d3de86b1))
 		- ((6667a91c-6401-4649-b941-ccf19cb70249))
 		- ((66679780-81fc-44e5-8458-b780b8d7db06))
-
 -
 -

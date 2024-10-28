@@ -1122,7 +1122,7 @@
                                    :height 1478.3999999999999}),
                           :page 9},
                :content {:text "he AI industry thrived from billions of dollars invested in the ﬁeld, and various activities emerged from expert systems developer companies to domain-speciﬁc hardware"},
-<<<<<<< HEAD
+               <<<<<<< HEAD,
                :properties {:color "blue"}}
               {:id #uuid "66592c65-16cc-4cd7-a028-5dab1fcfed7a",
                :page 9,
@@ -1229,8 +1229,4 @@
                           :page 10},
                :content {:text "Eventually, in 2012 Hinton’s team proposed a deep convolutional neural network architecture, named AlexNet (after the team’s leading author Alex Krizhevsky), which was able to train more layers of neurons. Using many mechanisms and techniques such as rectiﬁed linear unit activation functions and the dropout technique, AlexNet could achieve higher discriminative power in an end-to-end fashion, that is, to feed the network with merely the pure images of the dataset [87]."},
                :properties {:color "red"}}],
- :extra {:page 8}}
-=======
-               :properties {:color "blue"}}],
- :extra {:page 9}}
->>>>>>> f09a83b (Iniciando local)
+ :extra {:page 11}}
