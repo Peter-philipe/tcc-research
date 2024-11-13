@@ -1,21 +1,27 @@
 - ![The Quest For Artificial Intelligence.pdf](../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf)
 - Existem vários perceptrons
 	- ((65f9cab4-d702-4e79-afdc-f5f3ca6e0711))
+-
+-
+- # 1º Inverno da IA
+  collapsed:: true
+	- O caso XOR não foi tão impactante assim
+		- ((6711cade-cc26-47bc-86e1-651fdba4d059))
+		- Atualmente, sabe-se que é possível sim fazer um XOR usando perceptrons, mas precisa ter no mínimo duas camadas
+			- https://medium.com/@lucaspereira0612/solving-xor-with-a-single-perceptron-34539f395182
+	- Mansfield Amendment
+		- ((67142341-65fe-454b-8b20-98783053fe84))
+	- ALPAC report
+		- ((6714257d-d309-4d2f-8847-706d660a2e63))
+	- Light Report
+		- Foi mais duro nas críticas
+			- ((671d5ccd-6284-4325-8f95-22d9c6426313))
+			-
+		- Dividiu a pesquisa de IA da época em três categorias
+			- A. ((671d5c3b-3169-4bf7-84e9-adb4778a9aba))
+			- C. ((671d5c3f-ac80-41ed-95ef-651d34da4713))
+			- B. ((671d5c43-411b-4f1d-881f-46446c30faf2))
+			-
+- # MYCIN
+	- ((6733e858-61c6-428f-8e16-23d1a0b9cfa8))
 	-
-- O caso XOR não foi tão impactante assim
-	- ((6711cade-cc26-47bc-86e1-651fdba4d059))
-	- Atualmente, sabe-se que é possível sim fazer um XOR usando perceptrons, mas precisa ter no mínimo duas camadas
-		- https://medium.com/@lucaspereira0612/solving-xor-with-a-single-perceptron-34539f395182
-- Mansfield Amendment
-	- ((67142341-65fe-454b-8b20-98783053fe84))
-- ALPAC report
-	- ((6714257d-d309-4d2f-8847-706d660a2e63))
-- Light Report
-	- Foi mais duro nas críticas
-		- ((671d5ccd-6284-4325-8f95-22d9c6426313))
-		-
-	- Dividiu a pesquisa de IA da época em três categorias
-		- A. ((671d5c3b-3169-4bf7-84e9-adb4778a9aba))
-		- C. ((671d5c3f-ac80-41ed-95ef-651d34da4713))
-		- B. ((671d5c43-411b-4f1d-881f-46446c30faf2))
-		-

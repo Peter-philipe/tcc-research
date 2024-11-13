@@ -1229,4 +1229,4 @@
                           :page 10},
                :content {:text "Eventually, in 2012 Hinton’s team proposed a deep convolutional neural network architecture, named AlexNet (after the team’s leading author Alex Krizhevsky), which was able to train more layers of neurons. Using many mechanisms and techniques such as rectiﬁed linear unit activation functions and the dropout technique, AlexNet could achieve higher discriminative power in an end-to-end fashion, that is, to feed the network with merely the pure images of the dataset [87]."},
                :properties {:color "red"}}],
- :extra {:page 11}}
+ :extra {:page 9}}

@@ -72,3 +72,8 @@ file-path:: ../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf
   hl-page:: 263
   hl-color:: green
   id:: 671d5ccd-6284-4325-8f95-22d9c6426313
+- Together, Shortliﬀe, Buchanan, and Cohen conceived the idea of building a computer program that would consult with physicians about bacterial infections and therapy
+  ls-type:: annotation
+  hl-page:: 291
+  hl-color:: green
+  id:: 6733e858-61c6-428f-8e16-23d1a0b9cfa8
