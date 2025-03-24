@@ -378,11 +378,7 @@
                                    :height 1632}),
                           :page 4},
                :content {:text "This trick allowed for support vector machine algorithms to capitalize on the low computational power that was available in the early 1990s"},
-<<<<<<< HEAD
                :properties {:color "red"}}
-=======
-               :properties {:color "blue"}}
->>>>>>> f09a83b (Iniciando local)
               {:id #uuid "65efbd5a-a269-4bd4-80f4-44924974056c",
                :page 4,
                :position {:bounding {:x1 614.03125,
@@ -570,7 +566,6 @@
                                    :height 1632}),
                           :page 6},
                :content {:text "IBM had announced that it would begin to focus attention toward the health care field and revolutionize AI in health care in the upcoming years. Although there were several successful collaborations between hospitals and IBM, some collaborations resulted in failures"},
-<<<<<<< HEAD
                :properties {:color "blue"}}
               {:id #uuid "66592fac-a31c-4f16-8f29-8e1d6200c54e",
                :page 4,
@@ -847,7 +842,3 @@
                :content {:text "with the introduction of GPUs and the steady improvement to computers as per Moore’s law, the hardware limitations that constrained the performance of neural networks were overcome. The additional computational power enabled researchers to run larger networks with more complex layers. Cires‚ an and colleagues 25 were the first to implement GPUs with DL using a GTX 280 graphics card. Finally, in2012, Krizhevsky and colleagues 26 presented AlexNet, which used the massively available dataset from ImageNet (1.2 million images with 1000 classes at the time) with GPUs to win the ImageNet Large Scale Visual Recognition Challenge"},
                :properties {:color "blue"}}],
  :extra {:page 4}}
-=======
-               :properties {:color "blue"}}],
- :extra {:page 7}}
->>>>>>> f09a83b (Iniciando local)

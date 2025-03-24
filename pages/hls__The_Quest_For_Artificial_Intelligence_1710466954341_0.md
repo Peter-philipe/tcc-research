@@ -77,3 +77,18 @@ file-path:: ../assets/The_Quest_For_Artificial_Intelligence_1710466954341_0.pdf
   hl-page:: 291
   hl-color:: green
   id:: 6733e858-61c6-428f-8e16-23d1a0b9cfa8
+- One of MYCIN’s innovations (as contrasted with DENDRAL, say) was that its reasoning process (using the rules) was quite separate from its medical knowledge (the rules themselves). Thus, it became common to divide the program into two parts, namely, the “inference engine” for applying rules and the “knowledge base” of rules. In principle, new rules could be added without having to change the inference engine. This division is shown in Fig. 18.5. This separation suggests that one could construct expert systems for other applications simply by replacing the medical knowledge with some other knowledge base without having to change the inference engine. William van Melle implemented a system he called EMYCIN (“E” for “empty”) for doing just that.15 A system designer along with experts in some ﬁeld, X, could interact with EMYCIN to produce IF–THEN rules for ﬁeld X. Using its built-in inference engine, EMYCIN could then use these rules to provide advice to a user of the system during a consultation. EMYCIN was used to build several diﬀerent expert systems in ﬁelds as diverse as tax planning and mechanical structural analysis
+  ls-type:: annotation
+  hl-page:: 294
+  hl-color:: purple
+  id:: 6737b961-bde1-4081-a9f9-90f4a3d90626
+- Shortliﬀe and colleagues conducted several evaluations in which physicians were asked to compare MYCIN’s recommendations with their own for several patients. Their major conclusion was that “Seventy percent of MYCIN’s therapies were rated as acceptable by a majority of the evaluators.” They also noted, by the way, that “75% is in fact better than the degree of agreement that could generally be achieved by Stanford faculty being assessed under the same criteria
+  ls-type:: annotation
+  hl-page:: 294
+  hl-color:: green
+  id:: 6737bafd-7eee-48a9-91de-17af58688cfd
+- The ﬁrst prominent work inspired by biological evolution was John Holland’s development of “genetic algorithms” beginning in the early 1960s
+  ls-type:: annotation
+  hl-page:: 44
+  hl-color:: blue
+  id:: 67c0d822-7957-438f-89f4-19024182647d

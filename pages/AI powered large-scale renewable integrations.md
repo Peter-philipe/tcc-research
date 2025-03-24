@@ -4,6 +4,11 @@
 	- ((66f1ca16-8f77-49c7-ad1d-ff8653b375f9))
 		- ((66f1ca3c-bb3a-4b64-897b-2805f117732f))
 		- ((66f1ca43-ca34-40c7-bbfc-efacb3461107))
+- ### Bom exemplo de AI na distribuição de RE
+	- ((67ba1b2f-62c2-451c-82bb-2ee59c1b86f3))
+	-
+-
 - # Uso de IA na produção de ER
-	- ## Dimensionamento da usina
-		- Por meio da IA, podemos usá-la no dimensionamento da usina de modo que a quantidade de elementos geradores (painéis solares; aero geradores; etc.), a disposição deles e de outros equipamento seja a melhor para balancear os custos e confiabilidade do sistema
+	- ## Previsão
+		- ((67c6365b-5f51-4c1e-9e11-d01a0937458f))
+		-

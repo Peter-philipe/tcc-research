@@ -6,11 +6,6 @@ file-path:: ../assets/Expert_systerms_need_common_sense_1716150217140_0.pdf
   hl-page:: 2
   hl-color:: green
   id:: 664bf3e0-9be7-4bfe-a564-d9728c205bfd
-- t outputs sentences, but the user types only single words or standard phrases
-  ls-type:: annotation
-  hl-page:: 2
-  hl-color:: blue
-  id:: 664bf463-bd77-473a-a2fe-82071b0eb30a
 - It would therefore be diﬃcult to modify MYCIN to learn from its experience.
   ls-type:: annotation
   hl-page:: 2
@@ -41,8 +36,23 @@ file-path:: ../assets/Expert_systerms_need_common_sense_1716150217140_0.pdf
   hl-page:: 5
   hl-color:: red
   id:: 6652299f-b594-4ea7-9c46-c7d0506e7eaf
-- epistemologicall
+- An example of MYCIN not knowing its limitations can be excited by telling MYCIN that the patient has Cholerae Vibrio in his intestines. MYCIN will cheerfully recommend two weeks of tetracycline and nothing else. Presumably this would indeed kill the bacteria, but most likely the patient will be dead of cholera long before that. However, the physician will presumably know that the diarrhea has to be treated and look elsewhere for how to do it.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 678d5a56-8f37-42a6-8cc4-6ba22906d63f
+- Various formalisms are used in artiﬁcial intelligence for representing facts about the eﬀects of actions and other events. However, all systems that I know about give the eﬀects of an event in a situation by describing a new situation that results from the event. This is often enough, but it doesn’t cover the important case of concurrent events and actions. For example, if a patient has cholera, while the antibiotic is killing the cholera bacteria, the damage to his intestines is causing loss of ﬂuids that are likely to be fatal. Inventing a formalism that will conveniently express people’s common sense knowledge about concurrent events is a major unsolved problem of AI.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: green
+  id:: 678d5ac2-4307-471f-b055-b4e56b75fb01
+- epistemologically
   ls-type:: annotation
   hl-page:: 5
   hl-color:: purple
-  id:: 6652312a-6f9e-4211-af7b-a086fe3eddf3
+  id:: 679c170b-404d-4188-b6f8-6d261811fac1
+- It outputs sentences, but the user types only single words or standard phrases
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: blue
+  id:: 679c237b-e3d3-43a7-8478-6be0d3b54810

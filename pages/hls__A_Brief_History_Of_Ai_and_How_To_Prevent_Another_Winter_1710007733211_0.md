@@ -57,7 +57,6 @@ file-path:: ../assets/A_Brief_History_Of_Ai_and_How_To_Prevent_Another_Winter_17
   ls-type:: annotation
   id:: 65ecc690-fd90-497d-a261-efada0e23414
   hl-color:: green
-  collapsed:: true
 - Another important outcome of this conservative shift in the ﬁeld of AI was the development of public benchmark datasets and related competitions in its various subﬁelds
   ls-type:: annotation
   hl-page:: 9

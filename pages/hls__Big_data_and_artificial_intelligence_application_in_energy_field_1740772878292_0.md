@@ -1,0 +1,2 @@
+file:: [Big_data_and_artificial_intelligence_application_in_energy_field_1740772878292_0.pdf](../assets/Big_data_and_artificial_intelligence_application_in_energy_field_1740772878292_0.pdf)
+file-path:: ../assets/Big_data_and_artificial_intelligence_application_in_energy_field_1740772878292_0.pdf

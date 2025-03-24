@@ -1,8 +1,10 @@
+-
 - Certainly! The R1 expert system, also known as XCON (eXpert CONfigurer), was one of the earliest and most successful expert systems. Here are some key points and hints about R1:
 - ### Overview
 	- **Developed By**: Digital Equipment Corporation (DEC).
 	- **Purpose**: To assist in configuring VAX computer systems by selecting and connecting appropriate components based on customer specifications.
 	- **Operational Period**: It was developed in the late 1970s and became operational in 1980.
+	- ((673be0b5-2b68-4d68-8aa2-de2007dd8949))
 - ### Key Features
 	- **Rule-Based System**: R1 used a large set of rules (over 1,000) to make decisions about the configuration of computer systems. These rules were derived from the expertise of DEC's human configuration specialists.
 	- **Production System**: Like MYCIN, R1 was a production system composed of if-then rules. The "if" part of a rule specifies a condition, and the "then" part specifies an action to be taken if the condition is met.

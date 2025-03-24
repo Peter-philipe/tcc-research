@@ -16,7 +16,7 @@
 		- ((66383a76-d5b4-479c-8f85-682a90d37128))
 - # 3º Onda
 	- ((6638451c-3848-42dc-a358-70700c4c2cd2))
-		- ![image.png](../assets/image_1715735756008_0.png){:height 406, :width 635}
+		- ![image.png](../assets/image_1715735756008_0.png){:height 407, :width 635}
 		- ((66383a76-d5b4-479c-8f85-682a90d37128))
 			- O que ele quer dizer com "senso comun"
 		-

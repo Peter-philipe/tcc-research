@@ -26,3 +26,13 @@ file-path:: ../assets/AI_powered_large-scale_renewable_integrations_172712180115
   hl-page:: 8
   hl-color:: green
   id:: 66f1d508-a238-420b-99a5-9e885453fcd4
+- Darab et al. [118] pointed out that the commonly utilized AI techniques, such as ANN, SVM, fuzzy logic, and GA, were difficult to be implemented to detect faults in distribution power systems, due to the fact that they required high volume of training dataset and its time consuming for data collection and model training. They proposed a novel AI algorithm, namely wavelet transform, to transiently detect islanding conditions based on frequency change in a short period, as shown in Fig. 15. The proposed method used frequency domain and time domain analysis to examine the voltage variations in the grid. The advantages of the wavelet transform method over conventional islanding detection methods were the capability to determine frequency variations transiently in a short time. Overall, the proposed detection method can overcome conventional methods with regard to detecting balanced and unbalanced voltage sawtooth/surge as well as frequency-dependent variations in DG networks
+  ls-type:: annotation
+  hl-page:: 12
+  hl-color:: green
+  id:: 67ba1b2f-62c2-451c-82bb-2ee59c1b86f3
+- Hu et al. [98] extracted the dynamical features of sky clouds using indirect prediction methods, and processed the input data in accordance with different meteorological characteristics, and then forecasted the PV output via radial basis functional neural networks
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 67c6365b-5f51-4c1e-9e11-d01a0937458f

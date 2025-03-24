@@ -26,8 +26,8 @@
 		- Nós temos um conjunto de **células simples** responsável por identificar somente um estímulo (padrão) específico, por exemplo, para identificar uma barra na posição horizontal você tem uma célula para isso já para identificar a mesma barra na vertical você tem outra célula, com identificação quero dizer que a célula emite um sinal (neurônio é ativado)
 		- Essas **células simples** passam a informações para **células complexas** que são ativadas independentemente da posição da barra, mas apenas pela presença da barra
 		- ((6601ec1d-6764-4aa8-8b8b-85436638facd))
-		- ![image.png](../assets/image_1711399962754_0.png)
+		- ![image.png](../assets/image_1711399962754_0.png){:height 380, :width 483}
 			- Fonte da imagem: [The Visual System and the Brain: Hubel and Wiesel Redux | The visual system: Hubel and Wiesel redux | InformIT](https://www.informit.com/articles/article.aspx?p=1431818)
 		- O trabalho mais famoso com o uso do neocognitron é o Gradient-Based Learning Applied to Document Recognition ([Gradient-based learning applied to document recognition (hal.science)](https://hal.science/hal-03926082/document))
-		-
-	-
+- Ler sobre a o desenvolvimento das redes convolucionais
+- https://medium.com/appyhigh-technology-blog/convolutional-neural-networks-a-brief-history-of-their-evolution-ee3405568597

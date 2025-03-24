@@ -1,0 +1,5 @@
+- ![Dark ages of AI.pdf](../assets/Dark_ages_of_AI_1736690278557_0.pdf)
+-
+- Mesmo na prosperidade da segunda onda não se descartava um cenário perca de interesse por IA
+- ((6783ca79-f385-4a53-9d7a-9e679297a7df))
+-

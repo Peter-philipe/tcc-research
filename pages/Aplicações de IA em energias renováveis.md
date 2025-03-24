@@ -1,0 +1,7 @@
+- ![Aplicações de IA em energias renováveis.pdf](../assets/Aplicações_de_IA_em_energias_renováveis_1740248579967_0.pdf)
+-
+- ### Viabilidade financeira no sistema de ER
+	- ((67ba16ae-bf39-45ae-954d-a6431d3119ce))
+- ### Construção do equipamento de ER
+	- ((67ba16bb-391d-443d-8133-1fa9fbcabf09))
+	-

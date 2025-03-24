@@ -1,0 +1,9 @@
+- https://medium.com/appyhigh-technology-blog/convolutional-neural-networks-a-brief-history-of-their-evolution-ee3405568597
+-
+- https://glassboxmedicine.com/2019/04/13/a-short-history-of-convolutional-neural-networks/
+-
+- ## The relation of neocognitro with modern CNN
+	- Neocognitron was the first architecture of its kind, perhaps the earliest precursor of CNNs. The concepts of feature extraction, pooling layers, and using convolution in a neural network were introduced and finally recognition or classification at the end was proposed in the Neocognitron
+- ## Princípio de funcionamento do neocognitro
+	- The structure of the network was inspired by that of the visual nervous system of vertebrates. In the whole network, with its alternate layers of S-cells (simple cells or lower order hypercomplex cells) and C-cells (complex cells or higher order hypercomplex cells), the process of feature-extraction by S-cells and toleration of positional shift by C-cells was repeated. During this process, local features extracted in lower stages are gradually integrated into more global features
+-

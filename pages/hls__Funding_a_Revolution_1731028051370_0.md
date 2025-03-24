@@ -31,3 +31,13 @@ file-path:: ../assets/Funding_a_Revolution_1731028051370_0.pdf
   hl-page:: 237
   hl-color:: blue
   id:: 67301409-fcdc-4678-8eb7-50cc47ce43c8
+- MYCIN, which helped physicians diagnose a range of infectious blood diseases based on sets of clinical symptoms.
+  ls-type:: annotation
+  hl-page:: 237
+  hl-color:: blue
+  id:: 6737fd7a-87cb-4d2f-89c2-93316c23bc18
+- One of Trilogy’s founders (a Stanford University graduate) learned about the expert system that Carnegie Mellon University (CMU) had developed for Digital Equipment Corporation to configure its VAX computers (XCON).4 Basing their work in part on the systems that had emerged from DENDRAL and MYCIN and what they learned about XCON, Trilogy’s founders also used constraintbased equations and object-oriented programming methods, derived in part from AI research.
+  ls-type:: annotation
+  hl-page:: 238
+  hl-color:: blue
+  id:: 673be0b5-2b68-4d68-8aa2-de2007dd8949

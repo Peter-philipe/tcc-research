@@ -1,0 +1,12 @@
+- ![neocognitron.pdf](../assets/neocognitron_1711391190731_0.pdf)
+-
+-
+- Começo da explicação do algoritmo de convolução
+	- ((674e5510-06d0-4af1-ba71-1c8e97c7ed71))
+	- ((674e551d-5100-41a8-a1f7-81b3c96521e4))
+-
+- Problema de Origem
+	- ((6601d626-dd6a-41c8-8c62-64f660d236f9))
+	- ((674cb70b-a7f4-47c3-8100-55d39d87c31b))
+	-
+-

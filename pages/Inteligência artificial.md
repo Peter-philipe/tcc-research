@@ -2,16 +2,19 @@
 	- [[A Brief History Of Ai and How To Prevent Another Winter]]
 	- [[Brief History of AI in Medice]]
 	- Artigo que deu origem as redes convolucionais
-		- ![neocognitron.pdf](../assets/neocognitron_1711391190731_0.pdf)
+		- [[Neocognitron]]
+		- [[LeNet-5]]
 	- [[Analyzing the Prospect of an Approaching AI Winter]]
-	  <<<<<<< HEAD
 	- [[Expert system and common sense]]
-	  =======
-	  >>>>>>> f09a83b (Iniciando local)
+	- [[Dark ages of AI]]
+	- [[The Expert System Business]]
 - Livros
 	- [[The Quest For Artificial Intelligence]]
 	- [[Artificial Intelligence A Modern Approach]]
-	-
+	- [[Funding a Revolution]]
 - Tópicos
 	- [[Neurônio]]
 	- [[História da Inteligência Artificial]]
+- Blogs
+	- [[Blogs about History of CNN]]
+-

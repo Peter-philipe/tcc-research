@@ -1,0 +1,6 @@
+- ![The_Expert_Systems_Business_How_It_Grew_and_Died.pdf](../assets/The_Expert_Systems_Business_How_It_Grew_and_Died_1739196134476_0.pdf)
+- Motivo da queda dos expert systems
+	- ((67aa084d-2aab-4872-b372-cab06bd6a214))
+	- ((67aa0858-6b6e-4b6d-a673-c732d63ba759))
+	- ((67aa0867-789b-46ed-9c25-93ef9b0d7bd5))
+	-

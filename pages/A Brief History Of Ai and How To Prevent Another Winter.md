@@ -45,11 +45,17 @@
 			  logseq.order-list-type:: number
 				- Não sabe resolver  nem um **ou exclusivo**
 				  logseq.order-list-type:: number
+					- Para alguns altores isso não foi tão relevante assim: ((67375abd-cee1-4ef2-b67b-03e94694e185))
+					  logseq.order-list-type:: number
 				- Expectativas muito altas
 				  logseq.order-list-type:: number
 					- ((65ee6555-9829-4c94-bb63-061a84a5babb))
 					  logseq.order-list-type:: number
-						- Para mais informações sobre essa investigação: ((65ee5801-b7f3-4e19-827e-65d4b64e6000))
+					- Para mais informações sobre essa investigação:
+					  logseq.order-list-type:: number
+						- ((65ee5801-b7f3-4e19-827e-65d4b64e6000))
+						  logseq.order-list-type:: number
+						- ((67375abd-1824-4011-894b-58ded4cd429e))
 						  logseq.order-list-type:: number
 		- ((65ecadeb-66e8-4266-a8c2-06d43baa03e8))
 		  logseq.order-list-type:: number
